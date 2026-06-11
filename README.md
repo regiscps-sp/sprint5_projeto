@@ -1,5 +1,20 @@
-# sprint5_projeto
-import pandas as pd
+# Sprint 5 - Dashboard de Veículos
 
-df = pd.read_csv('data/vehicles_us.csv')
-print(df.head())
+Este projeto foi desenvolvido utilizando Streamlit, Pandas e Plotly Express.
+
+## Funcionalidades
+
+- Visualização inicial dos dados
+- Histograma da distribuição da quilometragem dos veículos
+- Gráfico de dispersão entre preço e quilometragem
+
+## Tecnologias utilizadas
+
+- Python
+- Pandas
+- Plotly Express
+- Streamlit
+
+## Aplicação Online
+
+(URL do Render será adicionada após o deploy)
