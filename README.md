@@ -17,4 +17,4 @@ Este projeto foi desenvolvido utilizando Streamlit, Pandas e Plotly Express.
 
 ## Aplicação Online
 
-(URL do Render será adicionada após o deploy)
+(https://sprint5-projeto-i640.onrender.com)
